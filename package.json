@@ -1,0 +1,23 @@
+{
+  "name": "parser-dns",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gremwiz1/parser-dns.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gremwiz1/parser-dns/issues"
+  },
+  "homepage": "https://github.com/gremwiz1/parser-dns#readme",
+  "dependencies": {
+    "puppeteer": "^21.5.2"
+  }
+}
